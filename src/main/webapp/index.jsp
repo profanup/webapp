@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Devsecops Course</title>
+    <title>Devsecops Pipeline Creation Project</title>
 
 
     <!-- Custom styles for this template -->
@@ -80,7 +80,7 @@
     <hr>
 
     <footer>
-        <p>&copy; Company 2014</p>
+        <p>&copy; KGCE Karjat 2021</p>
     </footer>
 </div> <!-- /container -->
 
