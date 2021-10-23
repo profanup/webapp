@@ -80,7 +80,7 @@
     <hr>
 
     <footer>
-        <p>&copy; KGCE Karjat 2021</p>
+        <p>&copy; @ KGCE Karjat 2021   </p>
     </footer>
 </div> <!-- /container -->
 
